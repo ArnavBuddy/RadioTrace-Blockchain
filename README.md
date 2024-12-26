@@ -22,3 +22,7 @@ A blockchain-based system for managing radioactive sources, featuring a GUI buil
    ```bash
    python main.py
    ```
+
+## License
+
+[MIT License](LICENSE)
