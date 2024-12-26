@@ -1,0 +1,2 @@
+tkinter         # For GUI
+sqlite3         # For SQLite database management
